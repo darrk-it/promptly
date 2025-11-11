@@ -7,7 +7,7 @@
 
 ## Features
 
-- Per-user storage for OpenAI keys and prompt IDs
+- User specific storage for OpenAI keys and prompts
 - Secure encryption using AES-256
 - Works 24/7 on Pella with persistent disk
 - Ephemeral messages for sensitive commands
